@@ -4,7 +4,7 @@
 
 
 *Телефон:* 8 700 22 55 387  
-*Электронная почта:* *Frakiec3600@gmail.com*
+*Электронная почта:* Frakiec3600@gmail.com
 
 <img src="./foto.jpg" alt="img" width="200"/>
 
